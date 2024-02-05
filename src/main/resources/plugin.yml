@@ -1,0 +1,3 @@
+name: LobbyLCP
+version: '${project.version}'
+main: org.lordalex.lobbylcp.LobbyLCP

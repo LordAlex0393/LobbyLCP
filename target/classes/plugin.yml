@@ -1,0 +1,3 @@
+name: LobbyLCP
+version: '1.0-SNAPSHOT'
+main: org.lordalex.lobbylcp.LobbyLCP
